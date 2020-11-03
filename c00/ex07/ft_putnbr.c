@@ -1,6 +1,6 @@
 #include <unistd.h>
-#include <stdio.h>
 
- void ft_putnbr(int n)
+void ft_putnbr(int nb)
 {
-	
+    write(1, &c, 1);
+}
